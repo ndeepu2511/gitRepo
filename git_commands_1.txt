@@ -2,3 +2,4 @@ git init
 git status
 git config --global user.email "ndeepu2511@gmail.com"
 git config --global user.name "ndeepu2511"
+git add *
