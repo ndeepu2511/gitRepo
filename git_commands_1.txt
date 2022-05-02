@@ -5,6 +5,16 @@ git config --global user.name "ndeepu2511"
 git add *
 git diff
 
+
 modifications on branch1
 
 modifications on branch1
+
+modificaitons on branch2
+
+
+
+
+
+modifications on branch2
+>>>>>>> bracnh2
