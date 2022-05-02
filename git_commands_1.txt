@@ -6,3 +6,5 @@ git add *
 git diff
 
 modifications on branch1
+
+modifications on branch1
